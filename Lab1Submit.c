@@ -3,7 +3,7 @@
 
 int main()
 {
-    int arr[7] = {1, 2, 4, 3, 9, 0};
+    int arr[10] = {1, 2, 4, 3, 9, 0};
     int n = 6;
 
     // Traversing the array
